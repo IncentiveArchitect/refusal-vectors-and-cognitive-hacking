@@ -92,4 +92,4 @@ This case study demonstrates that safety in \~2B parameter models is neither rob
 
 ## Acknowledgement:
 
-I used Gemini 3 to help me write this readme. 
+I used Gemini 3 to help me write this readme and code. 
