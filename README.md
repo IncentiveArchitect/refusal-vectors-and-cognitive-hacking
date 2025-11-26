@@ -189,4 +189,4 @@ The core theme is the same: how safety and incentives are encoded in AI systems,
       year={2023}
 }
 
-I used AI to help me write this README and code. 
+Note: I used AI for generating code scaffolding, drafting analysis, and explaining concepts. I ran all experiments locally and ensured I understood the results before including them.
