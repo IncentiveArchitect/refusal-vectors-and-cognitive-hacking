@@ -1,10 +1,11 @@
+> **STATUS: PROTOTYPE / EXPERIMENTAL**
+>
+> This repository contains preliminary mechanistic interpretability experiments. The implementation utilizes AI-scaffolded code for vector discovery and has not yet been subjected to formal verification or cross-validation. Quantitative metrics (e.g., refusal rates) are generated via an automated evaluation pipeline and should be interpreted as illustrative of behavioral shifts rather than final scientific benchmarks. The primary value of this repo lies in the identification of qualitative failure modes (e.g., the 'Manic Positivity' mode).
+
 # Refusal Vectors across Qwen1.5-1.8B-Chat and Llama-3-8B-Instruct, with a Cognitive Hacking Study in Qwen1.5-1.8B-Chat
 
 > **Content Warning:** This repository contains research and code regarding harmful language model behaviors. These examples are included solely for the purpose of **AI Safety and Interpretability research**. Reader discretion is advised.
 >
-> **STATUS: PROTOTYPE / EXPERIMENTAL**
->
-> This repository contains the v0 experimental code used to generate preliminary hypotheses. The logic relies on AI-assisted generation and has not yet undergone rigorous unit testing or formal verification. The purpose of this repo is to demonstrate the experimental design and game-theoretic framework, not to serve as a production benchmark. Quantitative claims and estimates within this report may be unreliable.
 
 ## Abstract
 
@@ -192,5 +193,3 @@ The core theme is the same: how safety and incentives are encoded in AI systems,
       howpublished={\url{https://trojandetection.ai/}},
       year={2023}
 }
-
-Note: I used AI for generating code scaffolding, drafting analysis, and explaining concepts. I ran all experiments locally and ensured I understood the results before including them.
