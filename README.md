@@ -1,6 +1,6 @@
 > **STATUS: PROTOTYPE / EXPERIMENTAL**
 >
-> This repository contains preliminary mechanistic interpretability experiments. The implementation utilizes AI-scaffolded code for vector discovery and has not yet been subjected to formal verification or cross-validation. Quantitative metrics (e.g., refusal rates) are generated via an automated evaluation pipeline and should be interpreted as illustrative of behavioral shifts rather than final scientific benchmarks. The primary value of this repo lies in the identification of qualitative failure modes (e.g., the 'Manic Positivity' mode).
+> This repository contains preliminary mechanistic interpretability experiments. The implementation utilizes AI-scaffolded code for vector discovery and has not yet been subjected to formal verification or cross-validation. Quantitative metrics (e.g., refusal rates) are generated via an automated evaluation pipeline and should be interpreted as illustrative of behavioral shifts rather than final scientific benchmarks. The primary value of this repo lies in the identification of qualitative failure modes (e.g., the manic positivity mode).
 
 # Refusal Vectors across Qwen1.5-1.8B-Chat and Llama-3-8B-Instruct, with a Cognitive Hacking Study in Qwen1.5-1.8B-Chat
 
