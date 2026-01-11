@@ -1,6 +1,10 @@
 # Refusal Vectors across Qwen1.5-1.8B-Chat and Llama-3-8B-Instruct, with a Cognitive Hacking Study in Qwen1.5-1.8B-Chat
 
-> **⚠️ Content Warning:** This repository contains research and code regarding harmful language model behaviors. These examples are included solely for the purpose of **AI Safety and Interpretability research**. Reader discretion is advised.
+> **Content Warning:** This repository contains research and code regarding harmful language model behaviors. These examples are included solely for the purpose of **AI Safety and Interpretability research**. Reader discretion is advised.
+>
+> **STATUS: PROTOTYPE / EXPERIMENTAL**
+>
+> This repository contains the v0 experimental code used to generate preliminary hypotheses. The logic relies on AI-assisted generation and has not yet undergone rigorous unit testing or formal verification. The purpose of this repo is to demonstrate the experimental design and game-theoretic framework, not to serve as a production benchmark. Quantitative claims and estimates within this report may be unreliable.
 
 ## Abstract
 
